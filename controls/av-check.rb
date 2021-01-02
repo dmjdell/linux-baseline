@@ -8,4 +8,3 @@ describe service('clamd') do
   it { should be_installed }
   it { should be_running }
 end
-EOL
